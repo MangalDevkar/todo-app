@@ -30,3 +30,10 @@ If you are developing a production application, we recommend using TypeScript wi
 2. Run `npm install`
 3. Run `npm run dev`
 4. Open http://localhost:5173/
+
+## 🛠️ Technologies Used
+- React 18 with Hooks
+- Vite (Build tool)
+- CSS3 (Styling)
+
+## 📂 Project Structure

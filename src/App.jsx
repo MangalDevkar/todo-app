@@ -1,3 +1,9 @@
+/**
+ * Todo App Component
+ * Manages all todo state and functionality
+ * Features: Add, Edit, Delete, Complete tasks
+ */
+
 import { useState } from 'react';
 import Header from './components/Header';
 import ToDoList from './components/ToDoList';
